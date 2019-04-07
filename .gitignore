@@ -2,3 +2,4 @@ android/local.properties
 tilerunner.iml
 .packages
 .idea
+.DS_Store
